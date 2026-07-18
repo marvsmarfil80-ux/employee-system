@@ -3,5 +3,10 @@
         "name": "marvs",
         "department": "09",
         "salary": 900.0
+    },
+    "07": {
+        "name": "Leo",
+        "department": "DAS",
+        "salary": 2000.0
     }
 }
