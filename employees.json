@@ -8,5 +8,10 @@
         "name": "Leo",
         "department": "DAS",
         "salary": 2000.0
+    },
+    "05": {
+        "name": "Jacob",
+        "department": "DDS",
+        "salary": 21909.0
     }
 }
