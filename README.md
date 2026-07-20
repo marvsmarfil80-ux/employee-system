@@ -19,3 +19,27 @@ A simple Employee Management System built with Python that manages employee reco
 - GitHub
 
 ## Project Structure
+employee_system/
+├── employee.py
+├── utils.py
+├── main.py
+├── employees.json
+├── README.md
+└── .gitignore
+
+
+## What I Learned
+
+- CRUD operations
+- JSON file handling
+- Data persistence
+- Modular programming
+- Git version control
+
+## Future Improvements
+
+- Employee search
+- Salary management
+- Department filtering
+- SQLite database
+- REST API
